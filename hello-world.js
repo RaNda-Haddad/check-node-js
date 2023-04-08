@@ -1,0 +1,1 @@
+console.log("HELLO WORLD");//terminal command==> node hello-world
